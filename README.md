@@ -1,5 +1,6 @@
 ## Scratch_DiT
-
+Checkout the annotated notebook:  
+[Open in Google Colab](https://colab.research.google.com/drive/1N-JBZoGgAOmxYZ9BbIwr6cM-3_fjIUHj?usp=sharing)
 <p align="center">
   <img src="DiT/analysis/exp_outputs/latent_walk_d8-h1-p2_c3.gif" width="420"/>
 </p>
