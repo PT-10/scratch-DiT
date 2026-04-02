@@ -39,3 +39,4 @@ DiT_models = {
  "DiT-d8-h1-p2": DiT_d8_h1_p2,
  }
 ```
+The best performing model `d8_h1_p6` was trained on RTX 5060 laptop GPU for ~7 hours for 60k steps on a batch size of 128.
